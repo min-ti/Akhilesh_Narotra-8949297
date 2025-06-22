@@ -1,3 +1,4 @@
-Your Name:  Akhilesh Narotra
-Project Title: Lab 3
-Student Id: 8949297
+Name:  Akhilesh Narotra (アキレシュ ナロトラ)
+Project Title: /Lab 3/
+Student Id: /8949297/
+ᓚᘏᗢ
